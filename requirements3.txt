@@ -10,7 +10,7 @@ coverage==4.5.4
 docutils==0.15.2
 flake8==3.5.0
 flake8-tidy-imports==1.1.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-Script==2.0.5
 gevent==1.2.2
 greenlet==0.4.12
