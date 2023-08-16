@@ -44,7 +44,7 @@ flake8-tidy-imports==1.1.0
 # WSGI HTTP Server for UNIX
 # License: BSD
 # Upstream url: http://github.com/mitsuhiko/flask/
-Flask>=1.0,<2.0
+Flask>=1.0,<3.0
 
 # Scripting support for Flask
 # License: BSD
